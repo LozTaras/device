@@ -1802,6 +1802,15 @@ body {
   margin-left: -1px;
 }
 
+.monopods-catalog-background {
+  display: -webkit-flex;
+  display: -ms-flex;
+  display: flex;
+  justify-content: flex-end;
+  background-color: white;
+  flex-grow: 1;
+}
+
 .monopods-catalog {
   width: 760px;
   margin-top: 69px;
