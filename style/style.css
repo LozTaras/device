@@ -448,7 +448,6 @@ body {
 
   background-color: #f7e296;
   opacity: 0;
-  transition: opacity 200ms;
 }
 
 .main-navigation .main-catalog:hover .catalog-hover {
